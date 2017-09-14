@@ -15,18 +15,15 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
-#github_username: # put your github username
-#twitter_username: # put your twitter username
 linkedin_username: iainwhiteside # put your linkedin username
-#scholar_authorid: # put your google scholar author id
 contact_note: >
   Shoot me an email to chat.
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: blog
-blog_description: miscalliaineous thoughts
+blog_name: posts
+blog_description: it's opener there, in the wide open air
 
 # Pagination
 paginate: 4
@@ -88,11 +85,12 @@ scholar:
 
   sort_by: year
   order: descending
+  bibliography_list_tag: ul
 
   source: /_bibliography/
   bibliography: papers.bib
   bibliography_template: bib
-
+  repository: papers  
   replace_strings: true
   join_strings: true
 
@@ -101,7 +99,7 @@ scholar:
   details_link: Details
 
   query: "@*"
-
+  
 # -----------------------------------------------------------------------------
 # Other settings
 # -----------------------------------------------------------------------------

@@ -1,9 +1,10 @@
 ---
 layout: default
+active: blog
 ---
 
 <div class="header-bar">
-  <h1>{{ site.blog_name }}</h1>
+  <!--<h1>{{ site.blog_name }}</h1>-->
   <h2>{{ site.blog_description }}</h2>
 </div>
 
@@ -12,7 +13,10 @@ layout: default
   {% for post in paginator.posts %}
     <li>
       <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-      <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
+      <a href="{{ post.url | prepend: site.baseurl }}">
+      <img class="img-circle" src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}" >
+          </a>
+      <p class="post-meta">{{ post.date | date: '%B %-d, %Y' }}</p>
       <p>{{ post.description }}</p>
     </li>
   {% endfor %}

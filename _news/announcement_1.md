@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2017-08-20 17:00:00-0800
 inline: true
 ---
 
-A simple inline announcement.
+I got me a website

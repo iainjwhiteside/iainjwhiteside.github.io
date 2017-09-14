@@ -4,6 +4,7 @@
 .post-list {
     margin: 0;
     padding: 0;
+    text-align: center;
     list-style: none;
 
     > li {
@@ -21,7 +22,15 @@
     // @include media-query($on-laptop) {
     //     font-size: 36px;
     // }
+    text-shadow: 1px 1px 5px rgba(0,0,0,.2);
 }
+
+.img-circle {
+width: 200px;
+height: 200px;
+border-radius: 50%;
+}
+
 .post-content {
     h2 {
         font-size: 42px;
