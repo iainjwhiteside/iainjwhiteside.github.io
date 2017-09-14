@@ -22,6 +22,7 @@ social: true
 <span class="k"> elevator</span><span class="p">:</span> <span class="s">"Pragmatic theoretician"</span>
 
 <span class="k"> begin research interests</span>
+
 <span class="p"> - </span><span class="k">bind</span>(Interest.<span class="s">class</span>).<span class="k">to</span>(SoftwareEngineering.<span class="s">class</span>); 
 
 <span class="p"> - </span><span class="k">theorem</span> proving<span class="p">: </span><span class="s">"often &isin; isabelle"</span>
