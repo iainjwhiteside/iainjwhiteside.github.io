@@ -10,9 +10,9 @@ social: false
 Iain Whiteside flirts shamelessy with the practical, but he is never happier than when sketching out a proof on a whiteboard. 
 
 <div class="img_row">
-<img class="col one" src="{{ site.baseurl }}/assets/img/random/random - 13.jpg" alt="" title="Sunset over the Jungfrau"/>
-<img class="col one" src="{{ site.baseurl }}/assets/img/random/random - 32.jpg" alt="" title="A good day"/>
-<img class="col one" src="{{ site.baseurl }}/assets/img/random/random - 15.jpg" alt="" title="Sunset on Allermuir Hill"/>
+<img class="col one" src="{{ site.baseurl }}/assets/img/random/random - 13.JPG" alt="" title="Sunset over the Jungfrau"/>
+<img class="col one" src="{{ site.baseurl }}/assets/img/random/random - 32.JPG" alt="" title="A good day"/>
+<img class="col one" src="{{ site.baseurl }}/assets/img/random/random - 15.JPG" alt="" title="Sunset on Allermuir Hill"/>
 </div>
 <p></p>
 
@@ -39,7 +39,7 @@ I happen to think that we can [teach](http://www.sfmathcircle.org) mathematics a
 
 <div class="img_row">
 
-<img class="col one" src="{{ site.baseurl }}/assets/img/random/random - 19.jpg" alt="" title="Mutually assured destruction"/>
-<img class="col one" src="{{ site.baseurl }}/assets/img/random/random - 44.jpg" alt="" title="A hobby"/>
-<img class="col one" src="{{ site.baseurl }}/assets/img/random/random - 3.jpg" alt="" title="The office"/>
+<img class="col one" src="{{ site.baseurl }}/assets/img/random/random - 19.JPG" alt="" title="Mutually assured destruction"/>
+<img class="col one" src="{{ site.baseurl }}/assets/img/random/random - 44.JPG" alt="" title="A hobby"/>
+<img class="col one" src="{{ site.baseurl }}/assets/img/random/random - 3.JPG" alt="" title="The office"/>
 </div>
