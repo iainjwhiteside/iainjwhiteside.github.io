@@ -6,7 +6,7 @@ description: Computer Scientist, NASA Ames Research Center
 
 profile:
   align: center
-  image: temp-iain.jpg
+  image: iain.jpeg
   
 news: true
 social: true
